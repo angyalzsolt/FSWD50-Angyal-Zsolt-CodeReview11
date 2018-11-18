@@ -1,0 +1,18 @@
+#corp {
+	height: 500px;
+	width:  500px;
+	margin: auto;
+	text-align: center;
+}
+
+#itemList {
+	height: 470px;
+	width: 500px;
+	border: 1px solid black;
+}
+
+#itemName {
+	width: 250px;
+	height: 25px;
+	margin-bottom: 5px;
+}
